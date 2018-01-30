@@ -1,4 +1,4 @@
-package org.smart4j.chapter1;
+package org.web.chapter1;
 
 import java.io.IOException;
 import java.text.DateFormat;
