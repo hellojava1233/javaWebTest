@@ -10,6 +10,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ *  created by YP
+ *   date : 2018.01.30
+ */
 @WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
 
